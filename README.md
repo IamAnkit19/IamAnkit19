@@ -162,8 +162,8 @@ Competitive Programming
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IamAnkit19&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAnkit19&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=IamAnkit19&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IamAnkit19&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -171,7 +171,7 @@ Competitive Programming
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=IamAnkit19&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=IamAnkit19&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
