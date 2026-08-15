@@ -159,19 +159,12 @@ Competitive Programming
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=IamAnkit19&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=IamAnkit19&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=IamAnkit19&theme=tokyonight&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/IamAnkit19?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/IamAnkit19?style=for-the-badge&logo=github&label=Stars" />
+  <img src="https://img.shields.io/github/repositories/IamAnkit19?style=for-the-badge&logo=github&label=Repositories" />
 </p>
 
 ---
