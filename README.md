@@ -108,7 +108,7 @@ Currently focusing on:
 * Backtracking
 * Dynamic Programming
 
-🔗 **Repository:** [DSAMasterSheet](https://github.com/IamAnkit19/DSA](https://github.com/IamAnkit19/DSAMasterSheet))
+🔗 **Repository:** [DSAMasterSheet](https://github.com/IamAnkit19/DSAMasterSheet)
 
 ---
 
@@ -127,7 +127,7 @@ Problem Solving
        ↓
 Interview Patterns
        ↓
-Competitive Programming
+Technical Interviews
 ```
 
 🎯 **Goal:** Build strong problem-solving fundamentals rather than simply memorizing solutions.
